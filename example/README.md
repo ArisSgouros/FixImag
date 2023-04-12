@@ -1,0 +1,23 @@
+# Description
+Files for conducting the experiments shown in Table 1 in Ref [1]
+
+# Organization
+The directory includes:
+ - README.md -> current file
+ - evaluate.py -> python script which conducts each experiment
+ - run.py -> python script which includes the parameters of each experiment
+ - clean.sh -> bash script which removes the output files
+ - .gitignore -> contains all files and directories to be ignored by the git version control system
+ - REF/ -> directory containing the validated output files of each experiment
+
+# How to run
+python run.py
+
+# Output
+For each one of the experiments the code outputs:
+ - *.lammpstrj -> LAMMPS trajectory file
+ - *.log -> log file
+ - table1.csv -> CSV file including the output from all experiments
+
+# References
+[1] Sgouros. A. P.; Theodorou, A. N.; Addressing the Folding of Intermolecular Springs in Particle Simulations: Fixed Image Convention. Computation (2023).

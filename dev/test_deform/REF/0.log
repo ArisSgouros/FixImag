@@ -1,0 +1,38 @@
+
+Create two boxes:
+   Box_init edge vector:
+       [10.  0.  0.]
+       [ 0. 10.  0.]
+       [ 0.  0. 10.]
+   Box_last edge vector:
+       [10.  0.  0.]
+       [ 5. 10.  0.]
+       [-6.  2. 10.]
+
+Populate the boxes with a particle grid:
+    [5, 5, 5]
+
+Export Snapshots of init and last box
+
+Compute the deformation gradient with different schemes:
+   generic:
+       [ 1.   0.5 -0.6]
+       [0.  1.  0.2]
+       [0. 0. 1.]
+   constraint:
+       [ 1.   0.5 -0.6]
+       [0.  1.  0.2]
+       [0. 0. 1.]
+   analytical:
+       [ 1.   0.5 -0.6]
+       [0.  1.  0.2]
+       [0. 0. 1.]
+
+Edge vector of box_init after the deformation:
+       [10.  0.  0.]
+       [ 5. 10.  0.]
+       [-6.  2. 10.]
+
+Apply the deformation gradient to box_init grid
+
+Export Snapshot of init box after deformation
