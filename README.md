@@ -28,4 +28,4 @@ In this implementation:
  - the fixed image convention is referred to as FIX (instead of FIC [1])
 
 # References
-[1] Sgouros. A. P.; Theodorou, A. N.; Addressing the Folding of Intermolecular Springs in Particle Simulations: Fixed Image Convention. Computation (2023).
+[1] Sgouros, A.P.; Theodorou, D.N.; "Addressing the Folding of Intermolecular Springs in Particle Simulations: Fixed Image Convention". Computation 2023, 11(6), 106; https://doi.org/10.3390/computation11060106.

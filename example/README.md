@@ -20,4 +20,4 @@ For each one of the experiments the code outputs:
  - table1.csv -> CSV file including the output from all experiments
 
 # References
-[1] Sgouros. A. P.; Theodorou, A. N.; Addressing the Folding of Intermolecular Springs in Particle Simulations: Fixed Image Convention. Computation (2023).
+[1] Sgouros, A.P.; Theodorou, D.N.; "Addressing the Folding of Intermolecular Springs in Particle Simulations: Fixed Image Convention". Computation 2023, 11(6), 106; https://doi.org/10.3390/computation11060106.

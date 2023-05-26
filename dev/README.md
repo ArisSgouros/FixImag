@@ -17,4 +17,4 @@ The script runs the tests one-by-one and compares the output of the current vers
 In case that the outputs are/aren't the same the script will issue a success/fail message.
 
 # References
-[1] Sgouros. A. P.; Theodorou, A. N.; Addressing the Folding of Intermolecular Springs in Particle Simulations: Fixed Image Convention. Computation (2023).
+[1] Sgouros, A.P.; Theodorou, D.N.; "Addressing the Folding of Intermolecular Springs in Particle Simulations: Fixed Image Convention". Computation 2023, 11(6), 106; https://doi.org/10.3390/computation11060106.
